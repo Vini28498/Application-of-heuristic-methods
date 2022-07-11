@@ -1,2 +1,2 @@
 # Aplica-o-de-M-todos-Heur-sticos-
-Código de aplicação de métodos heurísticos para uma transportadora, utilização do Solver IBM-CPLEX visando a otimização de rotas de viagem.
+Code of application of heuristic methods for a carrier, use of Solver IBM-CPLEX aiming at the optimization of travel routes.
